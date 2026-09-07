@@ -128,7 +128,3 @@ Frontend runs by default at `http://localhost:5173`.
 - [Chakra UI](https://chakra-ui.com) for components and snippets.
 - [Unsplash](https://unsplash.com) for images.
 - [Render](https://render.com) for hosting.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
